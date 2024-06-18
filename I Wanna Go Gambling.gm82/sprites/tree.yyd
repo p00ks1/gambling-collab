@@ -1,0 +1,112 @@
++World
+	|sprWorld
+	|sprMenu
+	|sprMusic
+	|sprCamera
+	|sprKiller
+	+Trigger makers
+		|sprTriggerMaker
+		|sprTriggerMakerRed
+		|sprTriggerMakerOrange
+		|sprTriggerMakerYellow
+		|sprTriggerMakerChartreuse
+		|sprTriggerMakerGreen
+		|sprTriggerMakerEmerald
+		|sprTriggerMakerCyan
+		|sprTriggerMakerAzure
+		|sprTriggerMakerBlue
+		|sprTriggerMakerViolet
+		|sprTriggerMakerMagenta
+		|sprTriggerMakerPink
++Player
+	|sprPlayerIdle
+	|sprPlayerRun
+	|sprPlayerJump
+	|sprPlayerFall
+	|sprPlayerSlide
+	|sprPlayerMask
+	|sprPlayerMaskFlip
+	|sprPlayerStart
+	|sprPlayerBow
+	|sprBullet
+	|sprBlood
+	|sprGameOver
++Menu
+	|sprFileBackground
++Blocks
+	|sprBlockMask
+	|sprBlockMiniMask
+	|sprIceBlockMask
+	|sprBlock
+	|sprBlockInvisible
+	|sprBlockFake
+	|sprConveyorLeft
+	|sprConveyorRight
+	|sprPlatform
+	|sprSaveBlocker
+	+Slopes
+		|sprSlope
+		|sprSlopeTopRight
+		|sprSlopeBottomRight
+		|sprSlopeTopLeft
+		|sprSlopeBottomLeft
++Killers
+	|sprSpikeUp
+	|sprSpikeRight
+	|sprSpikeDown
+	|sprSpikeLeft
+	|sprMiniSpikeUp
+	|sprMiniSpikeRight
+	|sprMiniSpikeDown
+	|sprMiniSpikeLeft
+	|sprKillerBlock
+	|sprCherry
+	+Cherry colors
+		|sprCherryOrange
+		|sprCherryYellow
+		|sprCherryChartreuse
+		|sprCherryGreen
+		|sprCherryEmerald
+		|sprCherryCyan
+		|sprCherryAzure
+		|sprCherryBlue
+		|sprCherryViolet
+		|sprCherryMagenta
+		|sprCherryPink
+		|sprCherryWhite
+		|sprCherryGray
+		|sprCherryBlack
++Saves
+	|sprSaveMask
+	|sprSaveMedium
+	|sprSaveMediumFlip
+	|sprSaveHard
+	|sprSaveHardFlip
+	|sprSaveVeryHard
+	|sprSaveVeryHardFlip
++Gimmicks
+	|sprWater
+	|sprWaterRefreshing
+	|sprWaterGroundJump
+	|sprWaterCatharsis
+	|sprVineLeft
+	|sprVineRight
+	|sprJumpRefresher
+	|sprGravityUp
+	|sprGravityDown
+	|sprSign
+	|sprWarp
++Triggers
+	|sprTriggerMask
+	|sprTrigger
+	|sprButtonLeft
+	|sprButtonRight
++Items
+	|sprItem
+	|sprBossItem
++Misc
+	|sprEmpty
+	|spr1x1
+|sprGambler
+|sprRedGambler
+|sprCherryRainbow

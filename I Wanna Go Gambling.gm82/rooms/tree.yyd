@@ -1,0 +1,13 @@
+|rInit
++Menu
+	|rTitle
+	|rMenu
+	|rOptions
++Game
+	|rSample
+	|rSampleTriggers
+	|rSampleBoss
+	|rSampleClear
+	|rTemplate
+	|rStartRoom
+	|rGambleCore
